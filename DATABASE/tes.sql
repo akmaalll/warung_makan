@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 12, 2023 at 02:55 PM
+-- Generation Time: Aug 02, 2023 at 12:33 PM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 8.2.0
 
@@ -87,7 +87,7 @@ INSERT INTO `keranjang` (`id_keranjang`, `kode_customer`, `kode_produk`, `nama_p
 (16, 'C0003', 'P0002', 'Maryam', 5, 15000),
 (17, 'C0003', 'P0003', 'Kue tart coklat', 2, 100000),
 (24, 'C0005', 'P0002', 'Maryam', 1, 15000),
-(29, 'C0001', 'P0001', 'Burger', 3, 15000),
+(29, 'C0001', 'P0001', 'Burger', 1, 15000),
 (35, 'C0002', 'P0001', 'Burger', 3, 15000),
 (36, 'C0002', 'P0002', 'pizza', 1, 900000);
 
